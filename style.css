@@ -1,0 +1,58 @@
+#a:hover{
+    color: blue;
+    border: 1px solid black;
+    width: 90px;
+    padding: 7px;
+   
+}
+#a1{
+    text-align: center;
+    margin: auto;
+    padding: 18px;
+}
+.pricing-column{
+    padding: 3% 2% 3% 3%;
+}
+#t1{
+    text-align: center;
+    margin: auto;
+}
+#t2{
+    margin: 20px;
+}
+
+#t3{
+    padding: 20px; 
+    margin: 20px; 
+    text-align: center;
+}
+.t4{
+    padding: 20px;
+    margin: 30px;
+}
+.t5{
+    width: 70%;
+}
+
+#t8{
+    margin: 30px;
+    padding: 20px;
+}
+#services{
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    width: 90%;
+    margin-top: 60px;
+}
+#services2{
+    display: inline-block;
+    margin-top: 20px;
+}
+#t7{
+    padding: 40px;
+}
+#services3{
+    width: 90%;
+    padding: 30px;
+}
